@@ -16,11 +16,11 @@ Análise de produtividade de veículos, de otimização de distribuição e de c
 Este projeto tem por objetivo o desenvolvimento da análise de produtividade de veículos, de otimização de distribuição e de custo de rotas de uma empresa embarcadora de carga com:
 
 
-*criação e modelagem de um banco de dados em SQL
+* criação e modelagem de um banco de dados em SQL
 
-*criação de um visualizador de indicadores em BI
+* criação de um visualizador de indicadores em BI
 
-*aplicação do método de transportes para otimização da distribuição
+* aplicação do método de transportes para otimização da distribuição
 
 
 
@@ -41,27 +41,23 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Objetivo do Projeto
-Este projeto tem por objetivo geral apresentar o panorama atual do transporte marítimo por Cabotagem no Brasil e suas perspectivas de crescimento.
-Os objetivos específicos estabelecidos para esse projeto consistem em:
-* Desenvolver uma análise das condições para a viabilidade da cabotagem e apontar os principais entraves nesse setor portuário;
-* Identificar os importantes aspectos que influenciam na expansão do transporte costeiro de carga;
-* Apontar os principais fluxos comerciais e produtos que podem migrar do modal rodoviário para o transporte por Cabotagem;
-* Desenvolver uma análise quantitativa com estudo de tendência indicando as perspectivas do transporte por Cabotagem para os próximos anos.
-
+Este projeto tem por objetivo geral...
 
 # Tecnologias
 ### Tecnologias de Logística ou de Análise gerencial
-* Análise de tendência;
-* Análise de rota;
-* Dimensionamento de frota;
-* Custos de transporte;
-* Análise de Cenário.
+* Custos Logisticos;
+* Produtividade;
+* Otimização.
+
 
 ### Tecnologias da Informação
-* Microsoft Excel;
+* SQL;
 * Power BI;
-* Github;
-* Jira.
+* Excel;
+* Jira Software;
+* GitHub;
+* Office;
+* Slack.
 
 ### Produto 
   > MVP referente ao projeto
