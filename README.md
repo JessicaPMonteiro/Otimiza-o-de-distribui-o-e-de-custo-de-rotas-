@@ -12,12 +12,13 @@ Análise de produtividade de veículos, de otimização de distribuição e de c
 * [Autores](#autores)
 
 # API 6º Semestre do Curso Tecnologo em Logística
+
 Este projeto tem por objetivo o desenvolvimento da análise de produtividade de veículos, de otimização de distribuição e de custo de rotas de uma empresa embarcadora de carga com:
+
 *criação e modelagem de um banco de dados em SQL
 *criação de um visualizador de indicadores em BI
 *aplicação do método de transportes para otimização da distribuição
 
-![image](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/06b6d10d-126e-4525-94cb-376272617cc0)
 
 
 Os resultados dos projetos devem obedecer as definição de datas das sprints.
