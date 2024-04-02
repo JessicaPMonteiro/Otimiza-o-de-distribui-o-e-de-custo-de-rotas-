@@ -59,9 +59,7 @@ Este projeto tem por objetivo o desenvolvimento da análise de produtividade de 
 * Office;
 * Slack.
 
-## Produto
-
-
+  
 # Cronograma das Sprints
 
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto na plataforma Jira Software, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
