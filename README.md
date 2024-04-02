@@ -69,39 +69,40 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto na pla
 
 #### Cronograma das Sprints[(clique aqui)](https://paivamjessic.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog)
 
+
 # Backlog do produto
 
 ## Sprint 1. Definição do Tema e Orientador
-- [x] Definição do tema do projeto;
-- [x] Definição da área de estudo;
-- [x] Escolha do professor orientador;
-- [x] Escolha do professor co-orientador;
-- [x] Preenchimento da formalização da orientação;
-- [x] Entrega das definições.
+- [ ] Definição do tema do projeto;
+- [ ] Definição da área de estudo;
+- [ ] Escolha do professor orientador;
+- [ ] Escolha do professor co-orientador;
+- [ ] Preenchimento da formalização da orientação;
+- [ ] Entrega das definições.
 
 ## Sprint 2. Contextualização e Objetivos do Projeto
-- [x] Definição dos temas a serem abordados na contextualização;
-- [x] Pesquisar e dissertar sobre a história da cabotagem;
-- [x] Pesquisar e dissertar sobre contexto atual da cabotagem no Brasil;
-- [x] Pesquisar os principais entraves do setor;
-- [x] Pesquisar as principais regulamentações do setor de cabotagem;
-- [x] Dissertar sobre a integração regional no Mercosul;
-- [x] Definir junto ao orientador os objetivos do projeto;
-- [x] Finalizar e aprovação.
+- [ ] Definição dos temas a serem abordados na contextualização;
+- [ ] Pesquisar e dissertar sobre a história da cabotagem;
+- [ ] Pesquisar e dissertar sobre contexto atual da cabotagem no Brasil;
+- [ ] Pesquisar os principais entraves do setor;
+- [ ] Pesquisar as principais regulamentações do setor de cabotagem;
+- [ ] Dissertar sobre a integração regional no Mercosul;
+- [ ] Definir junto ao orientador os objetivos do projeto;
+- [ ] Finalizar e aprovação.
       
 ## Sprint 3. Tecnologias Utilizadas
-- [x] Defina as tecnologias logísticas ou de análise gerencial a serem utilizadas;
-- [x] Dissertar sobre a importância de cada tecnologia logística em relação a este projeto;
+- [ ] Defina as tecnologias logísticas ou de análise gerencial a serem utilizadas;
+- [ ] Dissertar sobre a importância de cada tecnologia logística em relação a este projeto;
 - [ ] Definir as ferramentas analiticas que serão utilizadas;
-- [x] Definir as tecnologias da informação que serão utilizadas;
-- [x] Dissertar sobre a importância de cada tecnologia da informação para o projeto;
-- [x] Desenvolvimento do Github;
-- [x] Desenvolvimento do Jira;
-- [x] Finalizar e aprovação.
+- [ ] Definir as tecnologias da informação que serão utilizadas;
+- [ ] Dissertar sobre a importância de cada tecnologia da informação para o projeto;
+- [ ] Desenvolvimento do Github;
+- [ ] Desenvolvimento do Jira;
+- [ ] Finalizar e aprovação.
       
 ## Sprint 4. Coleta e Descrição dos Dados Utilizados
-- [x] Realizar a coleta de dados no site da Antaq;
-- [x] Enviar os dados para análise e auxilio da co-orientadora;
+- [ ] Realizar a coleta de dados no site da Antaq;
+- [ ] Enviar os dados para análise e auxilio da co-orientadora;
 - [ ] Estudo dos dados constantes na PLN 2035;
 - [ ] Definição das ferramentas analiticas a serem utilizadas no estudo dos dados;
 - [ ] Elaboração do estudo de tendência;
