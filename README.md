@@ -61,8 +61,7 @@ Este projeto tem por objetivo o desenvolvimento da análise de produtividade de 
 * Slack.
 
 ## Produto
-  > MVP referente ao projeto [![MVP](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/commit/8b27ef063069c0dbf8c479cc81a9327949b4c7c6#commitcomment-140518701)
-> 
+  > MVP referente ao projeto [![MVP](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/a14188de-f628-4f7b-b469-c7908f4689a3)] 
   
 # Cronograma das Sprints
 
