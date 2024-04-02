@@ -61,7 +61,7 @@ Este projeto tem por objetivo o desenvolvimento da análise de produtividade de 
 
 ### Produto 
   > MVP referente ao projeto
-[![MVP](file:///D:/6%20Sem/API%206/MVP.jpg)
+[![MVP](file:///D:/6%20Sem/API%206/MVP.png)
 
 # Cronograma das Sprints
 
