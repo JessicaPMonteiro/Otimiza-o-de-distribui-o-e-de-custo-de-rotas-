@@ -1,3 +1,5 @@
+# API 6º Semestre do Curso Tecnologo em Logística
+
 # Otimização de distribuição e de custo de rotas
 Análise de produtividade de veículos, de otimização de distribuição e de custo de rotas de uma empresa embarcadora de carga.
 
@@ -10,18 +12,6 @@ Análise de produtividade de veículos, de otimização de distribuição e de c
 * [Backlog do produto](#Backlog-do-produto)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
-
-# API 6º Semestre do Curso Tecnologo em Logística
-
-Este projeto tem por objetivo o desenvolvimento da análise de produtividade de veículos, de otimização de distribuição e de custo de rotas de uma empresa embarcadora de carga com:
-
-
-* criação e modelagem de um banco de dados em SQL
-
-* criação de um visualizador de indicadores em BI
-
-* aplicação do método de transportes para otimização da distribuição
-
 
 
 
@@ -41,7 +31,17 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Objetivo do Projeto
-Este projeto tem por objetivo geral...
+Este projeto tem por objetivo o desenvolvimento da análise de produtividade de veículos, de otimização de distribuição e de custo de rotas de uma empresa embarcadora de carga com:
+
+
+* criação e modelagem de um banco de dados em SQL
+
+* criação de um visualizador de indicadores em BI
+
+* aplicação do método de transportes para otimização da distribuição
+
+
+
 
 # Tecnologias
 ### Tecnologias de Logística ou de Análise gerencial
