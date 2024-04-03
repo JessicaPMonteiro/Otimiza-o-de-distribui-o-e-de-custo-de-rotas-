@@ -20,7 +20,7 @@ Os resultados dos projetos devem obedecer as definição de datas das sprints.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick-off | 13/03/2024 | concluido| [Ver Relatório]([Kick-off API 6.pptx](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/files/14844800/Kick-off.API.6.pptx)|
+|Kick-off | 13/03/2024 | concluido| [Ver Relatório](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/files/14844800/Kick-off.API.6.pptx)|
 |Sprint 01 | 17/04/2024 | em processo| [Ver Relatório](https://github.com/JessicaPMonteiro/Logistica_2023/files/12730723/Formalizacao_orientacao_tg.-.Jessica.Monteiro.pdf) | 
 |Sprint 02 | 08/05/2024 | a fazer| [Ver Relatório](https://github.com/JessicaPMonteiro/Logistica_2023/files/12730794/Sprint.2.docx) | 
 |Sprint 03 | 29/05/2024 | a fazer |[Ver Relatório](https://github.com/JessicaPMonteiro/Logistica_2023/files/12730811/Sprint.3.docx) | 
