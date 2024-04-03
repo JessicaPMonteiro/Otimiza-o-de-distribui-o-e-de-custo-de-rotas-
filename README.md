@@ -92,37 +92,19 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto na pla
 ## Sprint 3.
 - [ ] Criar o banco de dados em SQL;
 - [ ] Finalizar a otimização do projeto em Python;
-- [ ] Desenvolvimento da tela comparativa do modelo atual e otimizado em Power BI;
-- [ ] Analisar os resultados da otimização;
+- [ ] Desenvolvimento da tela de analise custo x distância em Power BI;
 - [ ] Atualização do projeto no Jira Software;
 - [ ] Atualização do projeto no GitHub;
 - [ ] Desenvolvimento do relatório técnico;
 - [ ] Apresentação.
       
 ## Sprint 4. Coleta e Descrição dos Dados Utilizados
-- [ ] Realizar a coleta de dados no site da Antaq;
-- [ ] Enviar os dados para análise e auxilio da co-orientadora;
-- [ ] Estudo dos dados constantes na PLN 2035;
-- [ ] Definição das ferramentas analiticas a serem utilizadas no estudo dos dados;
-- [ ] Elaboração do estudo de tendência;
-- [ ] Elaboração e interpretação dos estudos de cenário;
-- [ ] Estudo da análise de rotas;
-- [ ] Estudo do dimensionamento de frotas;
-- [ ] Estudo do custo de transporte;
-- [ ] Desenvolvimento do Power BI;
-- [ ] Finalize e aprovação.
-
-## Sprint 5. Resultados Esperados e Referências Bibliográficas 
-- [ ] Reportar os resultados esperados;
-- [ ] Apontar as contribuições técnicas e acadêmicas para a área logística;
-- [ ] Elaborar as referências bibliográficas conforme a norma ABNT;
-- [ ] Finalize e aprovação.
-
-
- ## Sprint 6. Versão Final do Documento
-- [ ] Finalizar e revisar a versão final do projeto;
-- [ ] Elaborar a prévia da apresentação;
-- [ ] Finalize e aprovação.
+- [ ] Desenvolvimento da tela comparativa do modelo atual e otimizado em Power BI;
+- [ ] Analisar os resultados da otimização comparando os modelos;
+- [ ] Relatório técnico finalizado;
+- [ ] Projeto finalizado no Jira Software;
+- [ ] Finalização do GitHub;
+- [ ] Apresentação final.
 
 
 
@@ -135,9 +117,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto na pla
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Jira Software | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| SQL | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Power BI | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Jira | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Python | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
  
 </details>
