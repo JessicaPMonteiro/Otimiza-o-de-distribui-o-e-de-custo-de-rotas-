@@ -21,9 +21,9 @@ Os resultados dos projetos devem obedecer as definição de datas das sprints.
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick-off | 13/03/2024 | concluido| [Ver Relatório](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/files/14844800/Kick-off.API.6.pptx)|
-|Sprint 01 | 17/04/2024 | em processo| [Ver Relatório](https://github.com/JessicaPMonteiro/Logistica_2023/files/12730723/Formalizacao_orientacao_tg.-.Jessica.Monteiro.pdf) | 
-|Sprint 02 | 08/05/2024 | a fazer| [Ver Relatório](https://github.com/JessicaPMonteiro/Logistica_2023/files/12730794/Sprint.2.docx) | 
-|Sprint 03 | 29/05/2024 | a fazer |[Ver Relatório](https://github.com/JessicaPMonteiro/Logistica_2023/files/12730811/Sprint.3.docx) | 
+|Sprint 01 | 17/04/2024 | em processo| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Sprint 02 | 08/05/2024 | a fazer| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Sprint 03 | 29/05/2024 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |Sprint 04 | 19/06/2024 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |Feira de Soluções|27/06/2024 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
@@ -72,33 +72,32 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto na pla
 
 # Backlog do produto
 
-## Sprint 1. Definição do Tema e Orientador
-- [ ] Definição do tema do projeto;
-- [ ] Definição da área de estudo;
-- [ ] Escolha do professor orientador;
-- [ ] Escolha do professor co-orientador;
-- [ ] Preenchimento da formalização da orientação;
-- [ ] Entrega das definições.
+## Sprint 1.
+- [x] Definição das Users Stories;
+- [ ] Desenvolvimento do projeto no Jira Software;
+- [ ] Desenvolvimento do projeto na plataforma GitHub;
+- [ ] Elaboração do MVP;
+- [ ] Iniciar o desenvolvimento do relatório técnico;
+- [ ] Apresentação.
 
-## Sprint 2. Contextualização e Objetivos do Projeto
-- [ ] Definição dos temas a serem abordados na contextualização;
-- [ ] Pesquisar e dissertar sobre a história da cabotagem;
-- [ ] Pesquisar e dissertar sobre contexto atual da cabotagem no Brasil;
-- [ ] Pesquisar os principais entraves do setor;
-- [ ] Pesquisar as principais regulamentações do setor de cabotagem;
-- [ ] Dissertar sobre a integração regional no Mercosul;
-- [ ] Definir junto ao orientador os objetivos do projeto;
-- [ ] Finalizar e aprovação.
+## Sprint 2.
+- [ ] Desenvolvimento das telas de produtividade no Power BI;
+- [ ] Desenvolvimento da tela de frete no Power BI;
+- [ ] Iniciar o desenvolvimento da otimização em Python;
+- [ ] Atualização do projeto no Jira Software;
+- [ ] Atualização do projeto no GitHub;
+- [ ] Desenvolvimento do relatório técnico;
+- [ ] Apresentação.
       
-## Sprint 3. Tecnologias Utilizadas
-- [ ] Defina as tecnologias logísticas ou de análise gerencial a serem utilizadas;
-- [ ] Dissertar sobre a importância de cada tecnologia logística em relação a este projeto;
-- [ ] Definir as ferramentas analiticas que serão utilizadas;
-- [ ] Definir as tecnologias da informação que serão utilizadas;
-- [ ] Dissertar sobre a importância de cada tecnologia da informação para o projeto;
-- [ ] Desenvolvimento do Github;
-- [ ] Desenvolvimento do Jira;
-- [ ] Finalizar e aprovação.
+## Sprint 3.
+- [ ] Criar o banco de dados em SQL;
+- [ ] Finalizar a otimização do projeto em Python;
+- [ ] Desenvolvimento da tela comparativa do modelo atual e otimizado em Power BI;
+- [ ] Analisar os resultados da otimização;
+- [ ] Atualização do projeto no Jira Software;
+- [ ] Atualização do projeto no GitHub;
+- [ ] Desenvolvimento do relatório técnico;
+- [ ] Apresentação.
       
 ## Sprint 4. Coleta e Descrição dos Dados Utilizados
 - [ ] Realizar a coleta de dados no site da Antaq;
