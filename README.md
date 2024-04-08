@@ -52,7 +52,7 @@ Este projeto tem por objetivo o desenvolvimento da análise de produtividade de 
 
 
 ### Tecnologias da Informação
-* SQL ![sql](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/63c39566-0733-49ed-b414-287e18abd3d4)
+* ![sql](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/63c39566-0733-49ed-b414-287e18abd3d4) SQL
 * Power BI;
 * Excel;
 * Jira Software;
