@@ -52,13 +52,12 @@ Este projeto tem por objetivo o desenvolvimento da análise de produtividade de 
 
 
 ### Tecnologias da Informação
-* ![sql](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/63c39566-0733-49ed-b414-287e18abd3d4) SQL
-* Power BI;
-* Excel;
-* Jira Software;
-* GitHub;
-* Office;
-* Slack.
+![sql](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/6d9c1224-5524-4a1b-a473-b857fa787409)  SQL
+![slack](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/10a38429-3c15-4d93-8ac3-b4ca7efbd012) SLACK
+![office](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/fe68fcd7-ac5d-45f6-a61e-0bfd351a9402)  OFFICE
+![github](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/be4ef36d-4172-400b-af11-75b6a0f99ca9)  GITHUB
+![jira](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/c54fd47f-383d-4aa6-912c-1cb65694c0b4)  JIRA SOFTWARE
+![power bi](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/126a6196-045f-4191-85ff-33fc031c91c7)  POWER BI
 
 ## Produto
   > MVP referente ao projeto [![MVP](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/4c8fd53d-b774-4ea2-8278-0625a6d618fa)] 
