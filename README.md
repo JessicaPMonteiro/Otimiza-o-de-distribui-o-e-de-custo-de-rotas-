@@ -52,16 +52,11 @@ Este projeto tem por objetivo o desenvolvimento da análise de produtividade de 
 
 
 ### Tecnologias da Informação
-![sql](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/6d9c1224-5524-4a1b-a473-b857fa787409)  SQL
-![slack](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/10a38429-3c15-4d93-8ac3-b4ca7efbd012) SLACK
-![office](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/fe68fcd7-ac5d-45f6-a61e-0bfd351a9402)  OFFICE
-![github](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/be4ef36d-4172-400b-af11-75b6a0f99ca9)  GITHUB
-![jira](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/c54fd47f-383d-4aa6-912c-1cb65694c0b4)  JIRA SOFTWARE
-![power bi](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/126a6196-045f-4191-85ff-33fc031c91c7)  POWER BI
+![Ferramentas](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/adfff274-6ebb-470d-9821-f1a1810fafd7)
 
 ## Produto
   > MVP referente ao projeto
-![MVP](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/27f2cd12-d230-4668-878d-5be10bcc4917)
+![MVP](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/fc8c4963-637e-4253-aae0-2e760ece10cc)
 
 # Cronograma das Sprints
 
