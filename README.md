@@ -60,8 +60,9 @@ Este projeto tem por objetivo o desenvolvimento da análise de produtividade de 
 ![power bi](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/126a6196-045f-4191-85ff-33fc031c91c7)  POWER BI
 
 ## Produto
-  > MVP referente ao projeto [![MVP](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/4c8fd53d-b774-4ea2-8278-0625a6d618fa)] 
-  
+  > MVP referente ao projeto
+![MVP](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/27f2cd12-d230-4668-878d-5be10bcc4917)
+
 # Cronograma das Sprints
 
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto na plataforma Jira Software, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
