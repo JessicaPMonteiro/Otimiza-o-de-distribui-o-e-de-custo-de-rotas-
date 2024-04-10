@@ -69,10 +69,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto na pla
 
 ## Sprint 1.
 - [x] Definição das Users Stories;
-- [ ] Desenvolvimento do projeto no Jira Software;
-- [ ] Desenvolvimento do projeto na plataforma GitHub;
-- [ ] Elaboração do MVP;
-- [ ] Iniciar o desenvolvimento do relatório técnico;
+- [x] Desenvolvimento do projeto no Jira Software;
+- [x] Desenvolvimento do projeto na plataforma GitHub;
+- [x] Elaboração do MVP;
+- [x] Correção das inconsistências;
+- [x] Iniciar o desenvolvimento do relatório técnico;
 - [ ] Apresentação.
 
 ## Sprint 2.
