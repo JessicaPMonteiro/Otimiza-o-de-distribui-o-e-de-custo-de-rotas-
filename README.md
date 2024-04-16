@@ -58,9 +58,9 @@ Este projeto tem por objetivo o desenvolvimento da análise de produtividade de 
   > MVP referente ao projeto
 ![MVP](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/fc8c4963-637e-4253-aae0-2e760ece10cc)
 
-## MVP Entrega 1
+## MVP 
 <details>
-<summary>Hard Skills desenvolvidas</summary>
+<summary>Entrega 1</summary>
   
 ![MVP Entrega 1](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/c2576353-3b58-4d98-8279-08eaf3d1ec01)
 
