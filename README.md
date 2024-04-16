@@ -21,11 +21,12 @@ Os resultados dos projetos devem obedecer as definição de datas das sprints.
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick-off | 13/03/2024 | concluido| [Ver Relatório](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/files/14844800/Kick-off.API.6.pptx)|
-|Sprint 01 | 17/04/2024 | em processo| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|Sprint 02 | 08/05/2024 | a fazer| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|Sprint 03 | 29/05/2024 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|Sprint 04 | 19/06/2024 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|Feira de Soluções|27/06/2024 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Sprint 01 | 17/04/2024 | concluido| [Ver Relatório]((https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/files/14999949/Relatorio.Entrega.1.pdf)
+) | 
+|Sprint 02 | 08/05/2024 | a fazer| [Ver Relatório]() | 
+|Sprint 03 | 29/05/2024 | a fazer |[Ver Relatório]() | 
+|Sprint 04 | 19/06/2024 | a fazer |[Ver Relatório]() | 
+|Feira de Soluções|27/06/2024 | a fazer |[Ver Relatório]() | 
 
 
 
@@ -142,7 +143,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto na pla
 | Scrum Master |   Alexandre Ferreira Silva         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-ferreira87) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/aleFerreira87)              |
 | Equipe |   Adilson Rodolfo Alves Filho         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adilson-alves-2450901a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Adilson223355664949)              |
 | Equipe |   Alessandra de Oliveira        |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/jessica-paiva-monteiro-a8925416a/](https://www.linkedin.com/in/alessandra-oliveira-a11591206)) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AlessandraDeOliveira19)              |
-| Equipe |   Igor Guimarães Carvalho        |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](http://linkedin.com/in/igor-guimarães-24458b212) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JessicaPMonteiro)              |
+| Equipe |   Igor Guimarães Carvalho        |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](http://linkedin.com/in/igor-guimarães-24458b212) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/igorrguimaraes)              |
 | Equipe |   Jacilene Pereira dos Santos       |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacilene-pereira-dos-santos-140651200) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JacileneSantos)              |
 | Equipe |   Wanderson Silva Maciel       |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wanderson-silva-maciel) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/wandersonmaciel)              |
     |
