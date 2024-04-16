@@ -64,6 +64,8 @@ Este projeto tem por objetivo o desenvolvimento da análise de produtividade de 
   
 ![MVP Entrega 1](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/c2576353-3b58-4d98-8279-08eaf3d1ec01)
 
+</details>
+
 # Cronograma das Sprints
 
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto na plataforma Jira Software, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
