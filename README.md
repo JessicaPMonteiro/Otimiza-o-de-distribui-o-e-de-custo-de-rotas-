@@ -54,9 +54,15 @@ Este projeto tem por objetivo o desenvolvimento da análise de produtividade de 
 ### Tecnologias da Informação
 ![Ferramentas](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/adfff274-6ebb-470d-9821-f1a1810fafd7)
 
-## Produto
+# Produto
   > MVP referente ao projeto
 ![MVP](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/fc8c4963-637e-4253-aae0-2e760ece10cc)
+
+## MVP Entrega 1
+<details>
+<summary>Hard Skills desenvolvidas</summary>
+  
+![MVP Entrega 1](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/c2576353-3b58-4d98-8279-08eaf3d1ec01)
 
 # Cronograma das Sprints
 
