@@ -81,7 +81,7 @@ Dashboard Power BI
 
 Otimização em Python
 
- [![video](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/24fac78d-f4c6-4625-8681-a71d60c1636b)]()
+ [![video](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/24fac78d-f4c6-4625-8681-a71d60c1636b)](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/7cdbba5c-03c2-450b-b35c-b5df42e7799b)
 
 </details>
 
