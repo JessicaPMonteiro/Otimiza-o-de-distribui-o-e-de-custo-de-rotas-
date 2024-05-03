@@ -22,7 +22,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick-off | 13/03/2024 | concluido| [Ver Relatório](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/files/14844800/Kick-off.API.6.pptx)|
 |Sprint 01 | 17/04/2024 | concluido| [Ver Relatório](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/files/14999949/Relatorio.Entrega.1.pdf) | 
-|Sprint 02 | 08/05/2024 | a fazer| [Ver Relatório]() | 
+|Sprint 02 | 08/05/2024 | em desenvolvimento| [Ver Relatório]() | 
 |Sprint 03 | 29/05/2024 | a fazer |[Ver Relatório]() | 
 |Sprint 04 | 19/06/2024 | a fazer |[Ver Relatório]() | 
 |Feira de Soluções|27/06/2024 | a fazer |[Ver Relatório]() | 
@@ -107,12 +107,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto na pla
 - [ ] Apresentação.
 
 ## Sprint 2.
-- [ ] Desenvolvimento das telas de produtividade no Power BI;
-- [ ] Desenvolvimento da tela de frete no Power BI;
-- [ ] Iniciar o desenvolvimento da otimização em Python;
-- [ ] Atualização do projeto no Jira Software;
-- [ ] Atualização do projeto no GitHub;
-- [ ] Desenvolvimento do relatório técnico;
+- [x] Desenvolvimento das telas de produtividade no Power BI;
+- [x] Desenvolvimento da tela de frete no Power BI;
+- [x] Iniciar o desenvolvimento da otimização em Python;
+- [x] Atualização do projeto no Jira Software;
+- [x] Atualização do projeto no GitHub;
+- [x] Desenvolvimento do relatório técnico;
 - [ ] Apresentação.
       
 ## Sprint 3.
