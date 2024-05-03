@@ -68,10 +68,25 @@ Dashboard Excel
 
 Análise em Python
 
- [![video](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/24fac78d-f4c6-4625-8681-a71d60c1636b)](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/d9ebcb7a-4e4d-405a-b31b-5248723efa58))
-
+ [![video](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/24fac78d-f4c6-4625-8681-a71d60c1636b)](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/d9ebcb7a-4e4d-405a-b31b-5248723efa58)
 
 </details>
+
+<details>
+<summary>Entrega 2</summary>
+
+Dashboard Power BI
+
+ [![video](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/24fac78d-f4c6-4625-8681-a71d60c1636b)]()
+
+Otimização em Python
+
+ [![video](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/24fac78d-f4c6-4625-8681-a71d60c1636b)]()
+
+</details>
+
+
+
 
 # Cronograma das Sprints
 
