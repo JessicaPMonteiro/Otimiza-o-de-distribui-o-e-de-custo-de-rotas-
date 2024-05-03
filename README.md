@@ -61,8 +61,13 @@ Este projeto tem por objetivo o desenvolvimento da análise de produtividade de 
 ## MVP 
 <details>
 <summary>Entrega 1</summary>
-  
+
+Dashboard Excel
 ![MVP Entrega 1](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/c2576353-3b58-4d98-8279-08eaf3d1ec01)
+
+Análise em Python
+![MVP Entrega 1](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/98944b67-6449-4dc3-b587-c28ad6fdc8ce)
+
 
 </details>
 
