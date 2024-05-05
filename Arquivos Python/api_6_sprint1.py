@@ -15,14 +15,14 @@ import matplotlib.pyplot as plt #plotting library
 from google.colab import drive
 drive.mount('/content/drive')
 
-# Abrindo csv "Tabela Unica Completa"
-Tabela_unica_completa = pd.read_csv('/content/drive/My Drive/Dados_API/Tabela_unica_completa.csv')
+# Abrindo csv "Tabela nova Frete"
+Tabela_nova_frete = pd.read_csv('/content/drive/My Drive/Dados_API/Tabela_nova_frete.csv')
 
 # Calculando a média da coluna 'Produtividade'
-media_produtividade = Tabela_unica_completa['Produtividade'].mean()
+media_produtividade = Tabela_nova_frete['Produtividade'].mean()
 
 # Calculando a mediana da coluna 'Produtividade'
-mediana_produtividade = Tabela_unica_completa['Produtividade'].median()
+mediana_produtividade = Tabela_nova_frete['Produtividade'].median()
 
 print("Média da Produtividade:", media_produtividade)
 print("Mediana da Produtividade:", mediana_produtividade)
@@ -31,7 +31,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Carregando o CSV em um DataFrame
-df = pd.read_csv('/content/drive/My Drive/Dados_API/Tabela_unica_completa.csv')
+df = pd.read_csv('/content/drive/My Drive/Dados_API/Tabela_nova_frete.csv')
 
 # Listas para armazenar os meses e as médias de produtividade
 meses = []
@@ -67,7 +67,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Carregando o CSV em um DataFrame
-df = pd.read_csv('/content/drive/My Drive/Dados_API/Tabela_unica_completa.csv')
+df = pd.read_csv('/content/drive/My Drive/Dados_API/Tabela_nova_frete.csv')
 
 # Lista de CO.Fabrica e seus respectivos nomes
 fabricas = {
@@ -125,7 +125,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Carregando o CSV em um DataFrame
-df = pd.read_csv('/content/drive/My Drive/Dados_API/Tabela_unica_completa.csv')
+df = pd.read_csv('/content/drive/My Drive/Dados_API/Tabela_nova_frete.csv')
 
 # Lista de CO.Fabrica e seus respectivos nomes
 fabricas = {
@@ -193,6 +193,32 @@ plt.legend()
 # Exibindo o gráfico
 plt.grid(True)
 plt.show()
+
+import pandas as pd
+
+# Carregando o DataFrame
+Tabela_unica = pd.read_csv('/content/drive/My Drive/Dados_API/Tabela_nova_frete.csv')
+
+# Lista de veículos desejados
+veiculos = ['P12', 'P24']
+
+# Dicionário para armazenar a produtividade média por veículo
+produtividade_por_veiculo = {}
+
+# Iterando sobre cada veículo
+for veiculo in veiculos:
+    # Filtrando as linhas onde o valor na coluna 'Veiculo' é igual ao veículo atual
+    df_veiculo = Tabela_unica[Tabela_unica['Veiculo'] == veiculo]
+
+    # Calculando a média da coluna 'Produtividade' para o veículo atual
+    media_produtividade_veiculo = df_veiculo['Produtividade'].mean()
+
+    # Armazenando a média da produtividade do veículo no dicionário
+    produtividade_por_veiculo[veiculo] = media_produtividade_veiculo
+
+# Exibindo os resultados
+for veiculo, media_produtividade in produtividade_por_veiculo.items():
+    print(f'Veículo: {veiculo}, Produtividade Média: {media_produtividade:.2f}')
 
 # Abrindo csv "Frete_CIF"
 Frete_CIF = pd.read_csv('/content/drive/My Drive/Dados_API/Frete_CIF.csv')

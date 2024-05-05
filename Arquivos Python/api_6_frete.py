@@ -16,13 +16,13 @@ import numpy as np
 from google.colab import drive
 drive.mount('/content/drive')
 
-# Abrindo csv "Tabela Unica Completa"
-Tabela_unica_completa = pd.read_csv('/content/drive/My Drive/Dados_API/Tabela_unica_completa.csv')
+# Abrindo csv "Tabela Nova"
+Tabela_nova = pd.read_csv('/content/drive/My Drive/Dados_API/Tabela_nova.csv')
 
 import pandas as pd
 
 # Filtrando as linhas onde a coluna 'Incoterm' contém 'CIF'
-resultado = Tabela_unica_completa[Tabela_unica_completa['Incoterm'].str.contains('CIF')]
+resultado = Tabela_nova[Tabela_nova['Incoterm'].str.contains('CIF')]
 
 print(resultado)
 
@@ -36,14 +36,16 @@ resultado['Frete_por_unidade'] = resultado.apply(calcular_frete_por_unidade, axi
 print(resultado)
 
 # Salvando o DataFrame em formato CSV
-resultado.to_csv('resultado_com_frete.csv', index=False)
+resultado.to_csv('Frete_CIF.csv', index=False)
 
 # Baixando o arquivo CSV no Google Colab
 from google.colab import files
-files.download('resultado_com_frete.csv')
+files.download('Frete_CIF.csv')
 
 # Abrindo csv "Frete_CIF"
 Frete_CIF = pd.read_csv('/content/drive/My Drive/Dados_API/Frete_CIF.csv')
+
+print(Frete_CIF)
 
 # Calculando o valor médio do frete por unidade por fábrica
 media_frete_por_unidade_por_fabrica = Frete_CIF.groupby('CO.Fabrica')['Frete_por_unidade'].mean()
@@ -58,7 +60,7 @@ import pandas as pd
 
 # Exemplo de criação de um DataFrame fictício para demonstração
 data = {'Codigo_Fabrica': [3423909, 3403208, 3424402],
-        'CO.Fabrica': [10, 20, 30]}
+        'CO.Fabrica': [0.242368, 0.253267, 0.247264]}
 media_frete_por_unidade_por_fabrica = pd.DataFrame(data)
 
 # Mapeamento entre códigos de fábrica e nomes de fábrica
@@ -76,7 +78,7 @@ plt.figure(figsize=(10, 6))  # Define o tamanho da figura
 media_frete_por_unidade_por_fabrica.plot(kind='bar', x='Fabrica', y='CO.Fabrica', color='skyblue')  # Gera o gráfico de barras
 plt.title('Média do Frete por Unidade por Fábrica')  # Adiciona um título ao gráfico
 plt.xlabel('Fábrica')  # Adiciona rótulo ao eixo x
-plt.ylabel('CO.Fabrica')  # Adiciona rótulo ao eixo y
+plt.ylabel('Frete Médio')  # Adiciona rótulo ao eixo y
 plt.xticks(rotation=45)  # Rotaciona os rótulos do eixo x para melhor visualização
 plt.grid(axis='y', linestyle='--', alpha=0.7)  # Adiciona linhas de grade horizontal
 plt.tight_layout()  # Ajusta o layout para evitar que os rótulos se sobreponham
@@ -90,7 +92,7 @@ plt.show()
 custo_mensal_frete = []
 
 # Loop de 1 a 12 para calcular o custo mensal com frete
-for mes in range(1, 13):
+for mes in range(1, 12):
     # Filtrando o DataFrame para o mês atual
     df_mes = Frete_CIF[Frete_CIF['Mes.Base'] == mes]
 
@@ -108,7 +110,7 @@ for mes, custo in enumerate(custo_mensal_frete, start=1):
 import matplotlib.pyplot as plt
 
 # Criando uma lista para os meses de 1 a 12
-meses = list(range(1, 13))
+meses = list(range(1, 12))
 
 # Criando o gráfico de linhas
 plt.figure(figsize=(10, 6))
@@ -142,8 +144,8 @@ for fabrica in fabricas:
     # Criando uma lista para armazenar os custos mensais de frete para esta fábrica
     custo_mensal_frete_fabrica = []
 
-    # Loop de 1 a 12 para calcular o custo mensal com frete para esta fábrica
-    for mes in range(1, 13):
+    # Loop de 1 a 11 para calcular o custo mensal com frete para esta fábrica
+    for mes in range(1, 12):
         # Filtrando o DataFrame para a fábrica e o mês atual
         df_mes_fabrica = Frete_CIF[(Frete_CIF['CO.Fabrica'] == fabrica) & (Frete_CIF['Mes.Base'] == mes)]
 

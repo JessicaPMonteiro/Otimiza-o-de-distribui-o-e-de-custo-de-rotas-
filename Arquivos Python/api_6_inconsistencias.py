@@ -92,6 +92,8 @@ files.download('novo_dataframe_alterado.csv')
 # Abrindo csv "Tabela Novo DataFrame"
 novo_dataframe_alterado = pd.read_csv('/content/drive/My Drive/Dados_API/novo_dataframe_alterado.csv')
 
+print (novo_dataframe_alterado)
+
 # Filtrando as linhas onde a coluna 'Incoterm' contém 'FOB' e a coluna 'Vlr.Frete' contém o valor maior que 0
 resultado = novo_dataframe_alterado[(novo_dataframe_alterado['Incoterm'].str.contains('FOB')) & (novo_dataframe_alterado['Vlr.Frete'] > 0)]
 
