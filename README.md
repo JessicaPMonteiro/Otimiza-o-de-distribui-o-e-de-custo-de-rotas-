@@ -83,6 +83,12 @@ Otimização em Python
 
  [![video](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/24fac78d-f4c6-4625-8681-a71d60c1636b)](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/7cdbba5c-03c2-450b-b35c-b5df42e7799b)
 
+SQL
+
+ [![video](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/24fac78d-f4c6-4625-8681-a71d60c1636b)](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/ef7f2660-d02b-4912-bcbb-2b1766625220)
+
+
+
 </details>
 
 
@@ -107,9 +113,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto na pla
 - [ ] Apresentação.
 
 ## Sprint 2.
+- [x] Identificação e correção de inconsistências;
 - [x] Desenvolvimento das telas de produtividade no Power BI;
 - [x] Desenvolvimento da tela de frete no Power BI;
 - [x] Iniciar o desenvolvimento da otimização em Python;
+- [x] Iniciar o desenvolvimento do SQL;
 - [x] Atualização do projeto no Jira Software;
 - [x] Atualização do projeto no GitHub;
 - [x] Desenvolvimento do relatório técnico;
