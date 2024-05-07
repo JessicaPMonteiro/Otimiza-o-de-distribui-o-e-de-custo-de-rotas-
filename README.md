@@ -110,7 +110,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto na pla
 - [x] Elaboração do MVP;
 - [x] Correção das inconsistências;
 - [x] Iniciar o desenvolvimento do relatório técnico;
-- [ ] Apresentação.
+- [x] Apresentação.
 
 ## Sprint 2.
 - [x] Identificação e correção de inconsistências;
