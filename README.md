@@ -20,10 +20,10 @@ Os resultados dos projetos devem obedecer as definição de datas das sprints.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick-off | 13/03/2024 | concluido| [Ver Relatório](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/files/15252934/Kick-off.API.6.pdf)|
-|Sprint 01 | 17/04/2024 | concluido| [Ver Relatório](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/files/14999949/Relatorio.Entrega.1.pdf) | 
-|Sprint 02 | 08/05/2024 | em desenvolvimento| [Ver Relatório](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/files/15242241/RELATORIO.-.Sprint.2.pdf) | 
-|Sprint 03 | 29/05/2024 | a fazer |[Ver Relatório]() | 
+|Kick-off | 13/03/2024 | concluido | [Ver Relatório](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/files/15252934/Kick-off.API.6.pdf)|
+|Sprint 01 | 17/04/2024 | concluido | [Ver Relatório](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/files/14999949/Relatorio.Entrega.1.pdf) | 
+|Sprint 02 | 08/05/2024 | concluido | [Ver Relatório](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/files/15242241/RELATORIO.-.Sprint.2.pdf) | 
+|Sprint 03 | 29/05/2024 | em desenvolvimento |[Ver Relatório]() | 
 |Sprint 04 | 19/06/2024 | a fazer |[Ver Relatório]() | 
 |Feira de Soluções|27/06/2024 | a fazer |[Ver Relatório]() | 
 
@@ -121,7 +121,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto na pla
 - [x] Atualização do projeto no Jira Software;
 - [x] Atualização do projeto no GitHub;
 - [x] Desenvolvimento do relatório técnico;
-- [ ] Apresentação.
+- [x] Apresentação.
       
 ## Sprint 3.
 - [ ] Criar o banco de dados em SQL;
@@ -135,6 +135,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto na pla
 ## Sprint 4. Coleta e Descrição dos Dados Utilizados
 - [ ] Desenvolvimento da tela comparativa do modelo atual e otimizado em Power BI;
 - [ ] Analisar os resultados da otimização comparando os modelos;
+- [ ] Criar um manual do projeto
 - [ ] Relatório técnico finalizado;
 - [ ] Projeto finalizado no Jira Software;
 - [ ] Finalização do GitHub;
