@@ -147,8 +147,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto na pla
       
 ## Sprint 4. Coleta e Descrição dos Dados Utilizados
 - [ ] Desenvolvimento da tela comparativa do modelo atual e otimizado em Power BI;
-- [ ] Analisar os resultados da otimização comparando os modelos;
-- [ ] Criar um manual do projeto
+- [ ] Criar um manual do projeto;
 - [ ] Relatório técnico finalizado;
 - [ ] Projeto finalizado no Jira Software;
 - [ ] Finalização do GitHub;
