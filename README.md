@@ -102,7 +102,7 @@ Banco de Dados SQL
 
 Análise da Otimização em Phyton
 
- [![video](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/24fac78d-f4c6-4625-8681-a71d60c1636b)](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/7ec3c119-aeb1-4db9-811f-0112a5e39861)
+ [![Analise da otimizacao](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/7ec3c119-aeb1-4db9-811f-0112a5e39861)]
 
 </details>
 
