@@ -137,12 +137,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto na pla
 - [x] Apresentação.
       
 ## Sprint 3.
-- [ ] Criar o banco de dados em SQL;
-- [ ] Finalizar a otimização do projeto em Python;
-- [ ] Desenvolvimento da tela de analise custo x distância em Power BI;
-- [ ] Atualização do projeto no Jira Software;
-- [ ] Atualização do projeto no GitHub;
-- [ ] Desenvolvimento do relatório técnico;
+- [x] Criar o banco de dados em SQL;
+- [x] Finalizar e analisar a otimização do projeto em Python;
+- [x] Desenvolvimento da tela de analise custo x distância em Power BI;
+- [x] Atualização do projeto no Jira Software;
+- [x] Atualização do projeto no GitHub;
+- [x] Desenvolvimento do relatório técnico;
 - [ ] Apresentação.
       
 ## Sprint 4. Coleta e Descrição dos Dados Utilizados
