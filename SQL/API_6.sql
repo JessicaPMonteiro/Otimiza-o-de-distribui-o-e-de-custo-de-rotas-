@@ -63,3 +63,74 @@ FROM
     rotas
 GROUP BY 
     `CO.Fabrica`;
+    
+    
+#Lista de Cliente por Custo
+SELECT `CO.Cliente`, SUM(rotas.`Vlr.Frete`) AS Custo_Total_Com_Frete
+FROM rotas
+WHERE `CO.Cliente` = '2345'
+GROUP BY `CO.Cliente`;
+
+
+SELECT `CO.Cliente`, SUM(rotas.`Vlr.Frete`) AS Custo_Total_Com_Frete
+FROM rotas
+GROUP BY `CO.Cliente`;
+
+
+#Distância média por fabrica para cliente
+SELECT `CO.Fabrica`, `CO.Cliente`, AVG(Nova_Dist) AS Distancia_Media_Percorrida
+FROM rotas
+GROUP BY `CO.Fabrica`, `CO.Cliente`;
+
+
+#Custo por Km/fabrica
+SELECT `CO.Fabrica`, AVG(`Frete/km`) AS Custo_por_Km_por_Fabrica
+FROM rotas
+GROUP BY `CO.Fabrica`;
+
+#Custo por km de cada fabrica para cada cliente 
+SELECT `CO.Fabrica`, `CO.Cliente`, AVG(`Frete/km`) AS Custo_por_Km_por_Fabrica_para_Cliente
+FROM rotas
+GROUP BY `CO.Fabrica`, `CO.Cliente`;
+
+#Lista de Cliente por Quantidade Transportada
+SELECT `CO.Cliente`, SUM(rotas.`Qtd.Transp`) AS Quantidade_Transportada
+FROM rotas
+WHERE `CO.Cliente` = '2345'
+GROUP BY `CO.Cliente`;
+
+
+SELECT `CO.Cliente`, SUM(rotas.`Qtd.Transp`) AS Quantidade_Transportada
+FROM rotas
+GROUP BY `CO.Cliente`;
+
+#Frete médio por fabrica para cliente
+#Frete/km
+SELECT `CO.Fabrica`, `CO.Cliente`, AVG(`Frete/km`) AS Frete_médio_km
+FROM rotas
+GROUP BY `CO.Fabrica`, `CO.Cliente`;
+
+#Frete/Quantidade
+SELECT `CO.Fabrica`, `CO.Cliente`, AVG(`Frete/Qtd`) AS Frete_médio_km
+FROM rotas
+GROUP BY `CO.Fabrica`, `CO.Cliente`;
+
+
+
+
+
+
+
+
+SELECT `CO.Cliente` FROM rotas;
+
+SELECT DISTINCT `CO.Cliente`FROM rotas;
+
+
+
+select * from rotas;
+
+drop table rotas;
+
+select count(`CO.Cliente`) from rotas;
+
