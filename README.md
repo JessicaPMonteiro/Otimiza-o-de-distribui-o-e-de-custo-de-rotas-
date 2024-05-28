@@ -94,15 +94,15 @@ SQL
 
 Dashboard Power BI
 
- [![video](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/24fac78d-f4c6-4625-8681-a71d60c1636b)](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/16128616-04c6-453e-9975-0275112151e7)
+ [![video](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/24fac78d-f4c6-4625-8681-a71d60c1636b)](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/2745fcbb-ca68-4f1e-8930-d87d3b639616)
 
 Banco de Dados SQL
 
- [![video](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/24fac78d-f4c6-4625-8681-a71d60c1636b)](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/7cdbba5c-03c2-450b-b35c-b5df42e7799b)
+ [![video](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/24fac78d-f4c6-4625-8681-a71d60c1636b)](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/55c1e4f0-1097-42bf-8bad-d9eb4812db3a)
 
 Análise da Otimização em Phyton
 
- [![video](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/24fac78d-f4c6-4625-8681-a71d60c1636b)](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/7cdbba5c-03c2-450b-b35c-b5df42e7799b)
+ [![video](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/24fac78d-f4c6-4625-8681-a71d60c1636b)](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/7ec3c119-aeb1-4db9-811f-0112a5e39861)
 
 </details>
 
