@@ -171,7 +171,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto na pla
 - [x] Desenvolvimento do relatório técnico;
 - [x] Apresentação.
       
-## Sprint 4. Coleta e Descrição dos Dados Utilizados
+## Sprint 4. 
 - [x] Desenvolvimento da tela comparativa do modelo atual e otimizado em Power BI;
 - [x] Criar um manual do projeto;
 - [x] Relatório técnico finalizado;
