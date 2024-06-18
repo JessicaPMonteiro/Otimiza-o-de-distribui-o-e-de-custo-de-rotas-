@@ -24,8 +24,8 @@ Sprint | Previsão | Status| Histórico|
 |Sprint 01 | 17/04/2024 | concluido | [Ver Relatório](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/files/14999949/Relatorio.Entrega.1.pdf) | 
 |Sprint 02 | 08/05/2024 | concluido | [Ver Relatório](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/files/15242241/RELATORIO.-.Sprint.2.pdf) | 
 |Sprint 03 | 29/05/2024 | concluido |[Ver Relatório](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/files/15462529/RELATORIO.-.Sprint.3.pdf) | 
-|Sprint 04 | 19/06/2024 | a fazer |[Ver Relatório](https://github.com/user-attachments/files/15878925/RELATORIO.-.Sprint.4.pdf) | 
-|Feira de Soluções|27/06/2024 | a fazer |[Ver Relatório](https://github.com/user-attachments/files/15878928/Apresentacao_Feira_Solucoes.pdf) | 
+|Sprint 04 | 19/06/2024 | concluido |[Ver Relatório](https://github.com/user-attachments/files/15878925/RELATORIO.-.Sprint.4.pdf) | 
+|Feira de Soluções|27/06/2024 | concluido |[Ver Relatório](https://github.com/user-attachments/files/15878928/Apresentacao_Feira_Solucoes.pdf) | 
 
 
 
