@@ -128,7 +128,7 @@ Dashboard Power BI Finalizado
 <details>
 <summary>Feira de Soluções</summary>
 
- [![video](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/24fac78d-f4c6-4625-8681-a71d60c1636b)](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/2745fcbb-ca68-4f1e-8930-d87d3b639616)
+ [![video](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/24fac78d-f4c6-4625-8681-a71d60c1636b)](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/d627c0bc-f638-4a78-b24a-f503cfa0f70d)
 
 </details>
 
