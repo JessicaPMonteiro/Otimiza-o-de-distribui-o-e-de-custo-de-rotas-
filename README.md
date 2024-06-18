@@ -169,15 +169,15 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto na pla
 - [x] Atualização do projeto no Jira Software;
 - [x] Atualização do projeto no GitHub;
 - [x] Desenvolvimento do relatório técnico;
-- [ ] Apresentação.
+- [x] Apresentação.
       
 ## Sprint 4. Coleta e Descrição dos Dados Utilizados
-- [ ] Desenvolvimento da tela comparativa do modelo atual e otimizado em Power BI;
-- [ ] Criar um manual do projeto;
-- [ ] Relatório técnico finalizado;
-- [ ] Projeto finalizado no Jira Software;
-- [ ] Finalização do GitHub;
-- [ ] Apresentação final.
+- [x] Desenvolvimento da tela comparativa do modelo atual e otimizado em Power BI;
+- [x] Criar um manual do projeto;
+- [x] Relatório técnico finalizado;
+- [x] Projeto finalizado no Jira Software;
+- [x] Finalização do GitHub;
+- [x] Apresentação final.
 
 
 
@@ -189,11 +189,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto na pla
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 | Jira Software | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| SQL | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Power BI | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Python | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| SQL | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Power BI | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Python | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 
  
 </details>
@@ -204,11 +204,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto na pla
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Resiliência | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 
 </details>
 
