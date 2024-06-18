@@ -107,6 +107,11 @@ Análise da Otimização em Phyton
 <details>
 <summary>Entrega 4</summary>
 
+Analise da Otimização em Python
+
+ [![video](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/24fac78d-f4c6-4625-8681-a71d60c1636b)](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/2620cf1e-acdf-4473-aea3-64aa1565111f)
+
+
 Dashboard Power BI Finalizado
 
  [![video](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/24fac78d-f4c6-4625-8681-a71d60c1636b)](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/assets/142457190/e51e911e-b8a9-406c-a687-cdb8b1361afe)
