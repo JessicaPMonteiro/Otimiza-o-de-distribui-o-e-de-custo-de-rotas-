@@ -16,73 +16,99 @@ from google.colab import drive
 drive.mount('/content/drive')
 
 # Abrir Tabela demandas atualizada
-Otimizacao = pd.read_csv('/content/drive/My Drive/Dados_API/Otimizacao.csv')
+Otimizacao_at = pd.read_csv('/content/drive/My Drive/Dados_API/Otimizacao_at.csv')
 
-print(Otimizacao)
-
-#Calculando o resultado da otimização através dos custos por fábrica
+print(Otimizacao_at)
 
 import pandas as pd
 import matplotlib.pyplot as plt
 
+# Supondo que seu dataframe já esteja carregado como "Otimizacao_at"
+# Exemplo de dataframe
+# Otimizacao_at = pd.read_csv('caminho_para_seu_arquivo.csv')
 
-# Agrupando os dados por 'CO.Fabrica' e somando os custos
-custo_por_fabrica = Otimizacao.groupby('CO.Fabrica').agg({
-    'Custo_rota': 'sum',
-    'Custo_Rota_otim': 'sum'
-}).reset_index()
+# Somando todas as linhas de cada coluna
+total_custo_rota = Otimizacao_at['Custo_rota'].sum()
+total_custo_rota_otim2023 = Otimizacao_at['Custo_rota_otim2023'].sum()
+total_custo_rota_otim2024 = Otimizacao_at['Custo_rota_otim2024'].sum()
 
-# Verificando o resultado do agrupamento
-print(custo_por_fabrica)
-
-# Supondo que temos exatamente 3 fábricas
-fabrica_1 = custo_por_fabrica.iloc[0]
-fabrica_2 = custo_por_fabrica.iloc[1]
-fabrica_3 = custo_por_fabrica.iloc[2]
-
-# Criando um DataFrame para facilitar o plot
-dados_comparacao = pd.DataFrame({
-    'Fábrica': ['Fábrica 1', 'Fábrica 2', 'Fábrica 3'],
-    'Custo Rota': [fabrica_1['Custo_rota'], fabrica_2['Custo_rota'], fabrica_3['Custo_rota']],
-    'Custo Rota Otimizado': [fabrica_1['Custo_Rota_otim'], fabrica_2['Custo_Rota_otim'], fabrica_3['Custo_Rota_otim']]
-})
+# Preparando os dados para o gráfico
+data = {
+    'Custo_rota': total_custo_rota,
+    'Custo_rota_otim2023': total_custo_rota_otim2023,
+    'Custo_rota_otim2024': total_custo_rota_otim2024
+}
 
 # Criando o gráfico
-fig, ax = plt.subplots(figsize=(12, 6))
+fig, ax = plt.subplots()
+bars = ax.bar(data.keys(), data.values())
 
-# Índice para as barras
-indices = range(len(dados_comparacao))
+# Adicionando os valores acima das barras
+for bar in bars:
+    height = bar.get_height()
+    ax.text(
+        bar.get_x() + bar.get_width() / 2.0,
+        height,
+        f'{height:.2f}',
+        ha='center',
+        va='bottom'
+    )
 
-# Largura das barras
-largura = 0.35
-
-# Plotando os custos por fábrica
-barras1 = ax.bar(indices, dados_comparacao['Custo Rota'], width=largura, label='Custo Rota')
-barras2 = ax.bar([i + largura for i in indices], dados_comparacao['Custo Rota Otimizado'], width=largura, label='Custo Rota Otimizado')
-
-# Adicionando título e rótulos aos eixos
-ax.set_title('Comparação de Custos Totais por Fábrica')
-ax.set_xlabel('Fábrica')
-ax.set_ylabel('Custo Total')
-ax.set_xticks([i + largura / 2 for i in indices])
-ax.set_xticklabels(dados_comparacao['Fábrica'])
-
-# Adicionando uma legenda
-ax.legend()
-
-# Adicionando rótulos de valor nas barras
-def adicionar_rotulos(barras):
-    for barra in barras:
-        altura = barra.get_height()
-        ax.annotate(f'{altura:.2f}',
-                    xy=(barra.get_x() + barra.get_width() / 2, altura),
-                    xytext=(0, 3),  # 3 points vertical offset
-                    textcoords='offset points',
-                    ha='center', va='bottom')
-
-adicionar_rotulos(barras1)
-adicionar_rotulos(barras2)
+# Configurando rótulos e título
+ax.set_ylabel('Total Custo')
+ax.set_title('Comparação dos Custos das Rotas')
 
 # Exibindo o gráfico
 plt.show()
 
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Supondo que seu dataframe já esteja carregado como "Otimizacao_at"
+# Exemplo de dataframe
+# Otimizacao_at = pd.read_csv('caminho_para_seu_arquivo.csv')
+
+# Agrupar por 'CO.Fabrica' e somar os custos
+grouped_data = Otimizacao_at.groupby('CO.Fabrica').sum()
+
+# Preparando os dados para o gráfico
+fabricas = grouped_data.index
+custo_rota = grouped_data['Custo_rota']
+custo_rota_otim2023 = grouped_data['Custo_rota_otim2023']
+custo_rota_otim2024 = grouped_data['Custo_rota_otim2024']
+
+# Criando o gráfico
+fig, ax = plt.subplots(figsize=(10, 6))
+
+# Definindo a largura das barras e a posição
+bar_width = 0.25
+bar_positions = range(len(fabricas))
+
+# Plotando as barras
+bars1 = ax.bar(bar_positions, custo_rota, bar_width, label='Custo Rota')
+bars2 = ax.bar([p + bar_width for p in bar_positions], custo_rota_otim2023, bar_width, label='Custo Rota Otim 2023')
+bars3 = ax.bar([p + bar_width * 2 for p in bar_positions], custo_rota_otim2024, bar_width, label='Custo Rota Otim 2024')
+
+# Adicionando os valores acima das barras
+for bars in [bars1, bars2, bars3]:
+    for bar in bars:
+        height = bar.get_height()
+        ax.text(
+            bar.get_x() + bar.get_width() / 2.0,
+            height,
+            f'{height:.2f}',
+            ha='center',
+            va='bottom'
+        )
+
+# Configurações do gráfico
+ax.set_xlabel('Fábricas')
+ax.set_ylabel('Total Custo')
+ax.set_title('Comparação dos Custos das Rotas por Fábrica')
+ax.set_xticks([p + bar_width for p in bar_positions])
+ax.set_xticklabels(fabricas, rotation=45)
+ax.legend()
+
+# Exibindo o gráfico
+plt.tight_layout()
+plt.show()
