@@ -121,7 +121,7 @@ Dashboard Power BI Finalizado
 <details>
 <summary>Manual de Desenvolvimento do Projeto</summary>
   
-[Ver Relatório](https://github.com/JessicaPMonteiro/Otimiza-o-de-distribui-o-e-de-custo-de-rotas-/files/15252934/Kick-off.API.6.pdf)
+[Ver Relatório]()
 
 </details>
 
@@ -173,11 +173,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto na pla
       
 ## Sprint 4. 
 - [x] Desenvolvimento da tela comparativa do modelo atual e otimizado em Power BI;
-- [x] Criar um manual do projeto;
+- [ ] Criar um manual do projeto;
 - [x] Relatório técnico finalizado;
 - [x] Projeto finalizado no Jira Software;
 - [x] Finalização do GitHub;
-- [x] Apresentação final.
+- [ ] Apresentação final.
 
 
 
